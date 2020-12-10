@@ -3,7 +3,8 @@
         <title>Header Tag</title> 
     </head> 
     <body> 
-        <header> 
+        <header>
+            <center>
             <p> 
                 <a href= 
 "https://www.geeksforgeeks.org/fundamentals-of-algorithms/"> 
@@ -29,6 +30,7 @@
                 <a href= 
 "https://www.geeksforgeeks.org/quiz-corner-gq/"> 
                     Quizzes</a>  
+                </center>
             </p> 
         </header> 
     </body> 
