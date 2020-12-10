@@ -1,11 +1,9 @@
-<!DOCTYPE html> 
 <html> 
     <head> 
         <title>Header Tag</title> 
     </head> 
     <body> 
         <header> 
-            <h1>GeeksforGeeks</h1> 
             <p> 
                 <a href= 
 "https://www.geeksforgeeks.org/fundamentals-of-algorithms/"> 
@@ -36,4 +34,4 @@
     </body> 
 </html>
 
-Who am I ?
+#Who am I ?
