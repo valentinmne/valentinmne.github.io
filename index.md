@@ -29,9 +29,9 @@
                     CS Subjects</a> | 
                 <a href= 
 "https://www.geeksforgeeks.org/quiz-corner-gq/"> 
-                    Quizzes</a>  
+                    Quizzes</a>
+            </p>
                 </center>
-            </p> 
         </header> 
     </body> 
 </html>
@@ -39,3 +39,4 @@
 # Who am I ?
 I am here
 Here modif
+Stop center
